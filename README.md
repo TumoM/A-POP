@@ -14,9 +14,11 @@ API is being hosted on Heroku using Apollo Client!
 
 
 ### Development:
-`npm start`
+`npm i` // Install required project dependencies
+
+`npm start` // Launch a local dev server
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-`npm test`
+`npm test` // Runs test suite
 
-`npm run build`
+`npm run build` // Triggers a static production build
